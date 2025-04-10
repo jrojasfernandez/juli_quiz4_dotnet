@@ -13,10 +13,12 @@ namespace quiz4_COMP367Juli.Controllers
             _logger = logger;
         }
 
-        public IActionResult Index()
+        public ActionResult Index()
         {
+            ViewBag.Message = "Database access has already been done on April 1, 2025 by YourName";
             return View();
         }
+
 
         public IActionResult Privacy()
         {
