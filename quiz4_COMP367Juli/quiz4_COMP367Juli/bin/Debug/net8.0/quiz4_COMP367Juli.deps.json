@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "quiz4_COMP367Juli/1.0.0": {
+        "runtime": {
+          "quiz4_COMP367Juli.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "quiz4_COMP367Juli/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
